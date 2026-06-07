@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Main-Menu_SCENE.unity
     guid: 6c4c52abf3766bb48ade1ccccc718b54
   - enabled: 1
-    path: Assets/Scenes/Sandbox-Playground-Test_SCENE.unity
-    guid: 439b5c13486e39040a15e08d1c26f13d
+    path: Assets/Scenes/Level_02_Mining-Village_SCENE.unity
+    guid: bfb90ea0477a23644957bd0ff922ea2e
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
